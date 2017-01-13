@@ -1,6 +1,5 @@
 ###
 # Copyright (c) 2016, Gambit Research
-# All rights reserved.
 #
 #
 ###
