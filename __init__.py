@@ -25,7 +25,7 @@ __author__ = supybot.authors.unknown
 __contributors__ = {}
 
 # This is a url where the most recent plugin package can be downloaded.
-__url__ = '' # 'http://supybot.com/Members/yourname/MatterIrcd/download'
+__url__ = 'https://github.com/adam-gambitresearch/supybot-matterircd'
 
 import config
 import plugin
